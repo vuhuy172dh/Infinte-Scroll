@@ -1,0 +1,10 @@
+.homePage {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: start;
+}
+
+.searchInput {
+  width: 200px;
+}
